@@ -3,7 +3,7 @@
 I'm [Addy](https://github.com/pootpaddy)！ 👩🏽‍💻   
 
 
-I'm a senior year Mechatronic Engineering student who is passionate about STEM & Community Building.
+I'm a Mechatronic Engineer who is passionate about STEM & Community Building.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/pootpaddy)](https://twitter.com/pootpaddy)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pootaddy@gmail.com)](mailto:pootaddy@gmail.com)
